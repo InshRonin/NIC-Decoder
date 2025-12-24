@@ -11,10 +11,9 @@ A sleek, modern, and high-performance web-based utility to extract information f
 * **Fully Responsive:** Optimized for desktop, tablets, and mobile devices.
 
 ---
-
 ## 🚀 Live Demo
 
-Check out the live application here: **[Insert Your GitHub Pages Link Here]**
+Check out the live application here: **[link](https://inshronin.github.io/NIC-Decoder/)**
 
 ---
 
