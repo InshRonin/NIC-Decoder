@@ -1,4 +1,4 @@
-# 🪪 NIC Decoder: Dark Edition
+# 🪪 NIC Decoder
 
 A sleek, modern, and high-performance web-based utility to extract information from Sri Lankan National Identity Card (NIC) numbers. This tool supports both the **old (10-digit)** and **new (12-digit)** NIC formats.
 
